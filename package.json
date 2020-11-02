@@ -1,6 +1,6 @@
 {
   "name": "@foodie/pretty-log",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A prettier log for terminal.",
   "public": true,
   "main": "lib/umd/index.js",
