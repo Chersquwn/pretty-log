@@ -1,9 +1,9 @@
-# [0.1.0](https://github.com/Chersquwn/pretty-log/compare/45b32080c3ea45bab8ba34e44ec2bafdc0ad0a10...v0.1.0) (2020-11-02)
+# [0.1.0](https://github.com/Chersquwn/pretty-log/compare/7b756617ea6dee3459bef839acc6e81bf9511dd7...v0.1.0) (2020-11-02)
 
 
 ### Features
 
-* add log ([45b3208](https://github.com/Chersquwn/pretty-log/commit/45b32080c3ea45bab8ba34e44ec2bafdc0ad0a10))
+* add log ([7b75661](https://github.com/Chersquwn/pretty-log/commit/7b756617ea6dee3459bef839acc6e81bf9511dd7))
 
 
 
